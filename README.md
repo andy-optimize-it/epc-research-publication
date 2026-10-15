@@ -6,15 +6,16 @@ be separable from the EPC implementation repository.
 
 ## Contents
 
-- [`paper/EPC-Research-Paper.md`](paper/EPC-Research-Paper.md) — manuscript
-  based on the approved abstract.
+## Contents
+
+- [`paper/EPC-Research-Paper.md`](paper/EPC-Research-Paper.md) — primary manuscript based on the approved abstract.
+- [`paper/EPC-Executive-Summary.md`](paper/EPC-Executive-Summary.md) — supplementary executive summary for manufacturers and technical stakeholders.
 - [`paper/REFERENCES.md`](paper/REFERENCES.md) — cited related work.
-- [`paper/ARTIFACT-AND-DATA-AVAILABILITY.md`](paper/ARTIFACT-AND-DATA-AVAILABILITY.md) —
-  evidence scope and release boundary.
+- [`paper/ARTIFACT-AND-DATA-AVAILABILITY.md`](paper/ARTIFACT-AND-DATA-AVAILABILITY.md) — evidence scope and release boundary.
 - [`IP.md`](IP.md) — intellectual-property and publication boundary.
 - [`CITATION.cff`](CITATION.cff) — citation metadata.
-- [`tests/`](tests/) — checks for this publication package, not the EPC
-  implementation.
+- [`tests/`](tests/) — checks for this publication package, not the EPC implementation.
+
 
 ## Public-release boundary
 
