@@ -3,6 +3,7 @@
 **Manuscript status:** Research report draft  
 **Version:** 1.0  
 **Date:** 15 October 2026
+**Author:** Andreas Bender, EPC Research Lead
 
 ## Abstract
 
