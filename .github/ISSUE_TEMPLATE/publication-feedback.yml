@@ -1,0 +1,31 @@
+name: Publication feedback
+description: Suggest a correction to the public manuscript or metadata
+title: "[Publication] "
+labels:
+  - publication
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include implementation details, confidential information, personal data, or security-sensitive material.
+  - type: input
+    id: location
+    attributes:
+      label: Document and section
+      description: Identify the public document and section.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction
+      description: Describe the editorial correction and its public source.
+    validations:
+      required: true
+  - type: checkboxes
+    id: clearance
+    attributes:
+      label: Review
+      options:
+        - label: This report contains no confidential or implementation-enabling details.
+          required: true

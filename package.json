@@ -1,0 +1,12 @@
+{
+  "name": "epc-research-publication",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Publication-only materials for a bounded EPC research report",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

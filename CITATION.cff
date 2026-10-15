@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the EPC research report using the manuscript title."
+title: "A Bounded Software Model for Deterministic Contract Execution and Replay"
+version: 1.0.0
+date-released: 2026-10-15
+abstract: >-
+  An evidence-bounded report on contract-based deterministic software
+  execution, controlled replay, and a deterministic abstract simulator.
+  Results are limited to a ten-process replay test and three synthetic
+  workloads on one x64 host. No hardware-prediction or novelty claim is made.
+license: LicenseRef-All-Rights-Reserved
+keywords:
+  - deterministic execution
+  - software replay
+  - execution contracts
+  - abstract simulation
