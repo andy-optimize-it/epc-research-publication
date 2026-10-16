@@ -1,4 +1,4 @@
-# EPC Research Paper
+# EPC Research Paper (Execution Physics Controller)
 
 This directory is a self-contained, publication-oriented description of a
 bounded software execution and abstract simulation study. It is intended to
