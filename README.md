@@ -1,4 +1,5 @@
 # EPC Research Paper (Execution Physics Controller)
+A Bounded Software Model for Deterministic Contract Execution and Replay
 
 This directory is a self-contained, publication-oriented description of a
 bounded software execution and abstract simulation study. It is intended to
